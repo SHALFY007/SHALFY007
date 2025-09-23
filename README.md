@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vladislav
 
-<!--
-**SHALFY007/SHALFY007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 21-year-old fullstack developer from Slovakia.  
+I graduated from the University of Žilina (UNIZA) with a degree in Informatics.  
+Currently focused on building clean, scalable web applications and RESTful APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 🧠 Frontend
+- **Primary:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
+- **Secondary:** Git, Responsive Design, Bootstrap, Tailwind CSS
+
+### 🔧 Backend (Java Ecosystem)
+- **Language:** Java (SE & EE)
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **ORM:** Hibernate, Spring Data JPA
+- **API:** RESTful services, JSON, Swagger
+- **Testing:** JUnit, Mockito
+- **Build Tools:** Maven, Gradle
+- **DevOps:** Docker, GitHub Actions
+- **Other:** Exception Handling, Validation, Logging (SLF4J, Logback)
+
+---
+
+## 🌍 Languages
+- 🇷🇺 Russian — Native  
+- 🇸🇰 Slovak — B2  
+- 🇬🇧 English — B1
+
+---
+
+## 📂 Featured Projects
+
+
+
+---
+
+## 📈 GitHub Stats
+
+![op Langs
+![GitHub Stats](https://github-readme
+- 📧 Email: 
+- 💬 Telegram: 
+- 💼 LinkedIn: 
