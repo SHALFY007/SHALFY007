@@ -1,9 +1,5 @@
 # 👋 Hi there! I'm Vladislav
 
-🎓 I'm a 21-year-old fullstack developer from Slovakia.  
-I graduated from the University of Žilina (UNIZA) with a degree in Informatics.  
-Currently focused on building clean, scalable web applications and RESTful APIs.
-
 ---
 
 ## 💻 Tech Stack
