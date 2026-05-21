@@ -2,40 +2,41 @@
 
 ---
 
-### 🚀 Why me?
-**I entered 1C development with a strong foundation in Java (Spring/Hibernate) and Frontend (React.js). This background allows me to:**
-- **Professional-level Integrations:** Seamlessly integrate 1C with web services and external APIs.
-- **Architectural Insight:** Deep understanding of client-server application architecture that goes beyond standard 1C development practices.
-- **UX-Focused Interfaces:** Design and develop user-friendly interfaces by applying modern UX principles learned from web development.
+### 🚀 About Me & Focus
+**I am a Data Science & ML enthusiast with a strong foundational background in Software Engineering. Currently, my primary focus is entirely on Data Science, and I am looking for a confident Intern / Junior Data Scientist role where I can bring value through data-driven solutions.**
+
+- **Algorithmic Mindset:** Solid understanding of computer science fundamentals, data structures, and implementing ML algorithms from scratch to understand their underlying math.
+- **Data & Business Insight:** Experience with enterprise systems (1C) gives me a deep understanding of corporate data structures, database relations, and real-world business logic.
+- **Bridge Between Data & UI:** With a strong background in Frontend (React.js), I can not only extract and model data but also build clean, interactive data dashboards and prototypes.
+
+---
 
 ## 💻 Tech Stack
 
-### ⚙️ 1C:Enterprise (Primary Focus)
-- **Development:** BSL (Built-in Scripting Language), Managed Forms (Управляемые формы).
-- **Architecture:** Configuration development from scratch, Subsystems, Data processors & reports (СКД).
-- **Skills:** Business process automation, Query language for 1C (Запросы 1С), Working with metadata.
-- **Current Goal:** Preparing for the "1C:Professional" and "1C:Specialist" certificates.
-- **Business Logic:** Turning abstract business requirements into functional 1C modules.
+### 📊 Data Science & Machine Learning (Primary Focus)
+- **Languages:** Python (OOP, Data Structures)
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-Learn (Classic Supervised/Unsupervised learning: Regression, Classification, Clustering)
+- **Data & SQL:** PostgreSQL, MySQL, writing queries, data extraction, and data cleaning
+- **Methodologies:** Exploratory Data Analysis (EDA), Feature Engineering, Basics of Probability & Statistics
 
-### 🧠 Frontend
-- **Primary:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
-- **Secondary:** Git, Responsive Design, Bootstrap, Tailwind CSS
+### 🧠 Frontend & Data Presentation
+- **Core:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & UI:** React.js, Tailwind CSS
+- **Tools:** Git, GitHub, Vite
 
-### 🔧 Backend (Java Ecosystem)
-- **Language:** Java (SE & EE)
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security
-- **Database:** PostgreSQL, MySQL, MongoDB
-- **ORM:** Hibernate, Spring Data JPA
-- **API:** RESTful services, JSON, Swagger
+### ⚙️ 1C:Enterprise (Enterprise Data & Automation)
+- **Skills:** BSL (Built-in Scripting Language), Query language for 1C (Запросы 1С), Managed Forms, Data composition system (СКД).
+- **Context:** Automated business processes and worked closely with relational data models.
 
 ---
 
 ### 🎓 Education
 - **University of Žilina (UNIZA), Slovakia**
-- **Faculty of Management Science and Informatics**
-- **Major:** Informatics (Incomplete)
-- **Focus:** Computer Science, Algorithms, Data Structures, Software Engineering fundamentals.
-- **Status:** Decided to focus on practical development and commercial projects, which significantly accelerated my professional growth in the 1C:Enterprise ecosystem.
+  - *Faculty of Management Science and Informatics*
+  - **Major:** Informatics (Incomplete)
+  - **Focus:** Computer Science, Algorithms, Data Structures, Software Engineering fundamentals.
+  - *Pivot:* Decided to focus on intensive self-study, practical commercial development, and deep dive into Data Science.
 
 ---
 
@@ -46,12 +47,7 @@
 
 ---
 
-## 📂 Featured Projects
-
-
-
----
-
+## 📬 Connect with me:
 - 📧 Email: 
 - 💬 Telegram: 
 - 💼 LinkedIn: 
